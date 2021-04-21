@@ -1,0 +1,27 @@
+{
+  "name": "fetch-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc app.ts",
+    "execute": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlreadyBored/node-fetch-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlreadyBored/node-fetch-example/issues"
+  },
+  "homepage": "https://github.com/AlreadyBored/node-fetch-example#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.10"
+  }
+}

@@ -1,0 +1,1 @@
+# Minimalistic example of use `node-fetch` & Typescript 
